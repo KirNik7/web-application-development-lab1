@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Ноутбук", "price": 1000, "weight": 2000, "quantity": 10, "description": "Мощный ноутбук с высокой производительностью", "image": "products_images/laptop.jpg"},
+    {"id": 2, "name": "Смартфон", "price": 500, "weight": 150, "quantity": 20, "description": "Современный смартфон с хорошей камерой", "image": "products_images/smartphone.jpg"},
+    {"id": 3, "name": "Планшет", "price": 300, "weight": 500, "quantity": 15, "description": "Легкий планшет с длительным временем работы аккумулятора", "image": "products_images/tablet.jpg"}
+]
